@@ -1,3 +1,20 @@
+h1 {
+    text-align: center;
+}
+
 p {
     color: red;
+}
+
+h2 {
+    text-align: center;
+}
+.Main-Body {
+    color: black;
+}
+#Conclusion {
+    color: blue;
+}
+img {
+
 }
