@@ -19,5 +19,12 @@ h2 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 25%;
+}
+
+.centerShort {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 25%;
 }
